@@ -1,0 +1,7 @@
+//Q1
+void main() {
+
+  var hour= DateTime.now().hour;
+  print(hour);
+  
+}
